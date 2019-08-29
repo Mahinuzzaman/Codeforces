@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    
     long long int n;
     while(cin>>n)
     {
